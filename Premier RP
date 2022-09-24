@@ -24,3 +24,20 @@ Pharmacist - 91.23, -1603.81, 29.90
 Morphine Processor - 166.0, 293.21, 109.84
 Heroin Base Processor - -1124.27, 4892.85, 217.47
 Heroine Processor - 1967.15, 4634.16, 40.10
+
+#Weed
+## I haven't been able to test this yet, but from files, you might just have to actually buy from a already "built in-business" ingame the pots and stuff, but seeds are in house robbery meta
+
+#Ped
+Weed -1169.22, -1573.28, 3.66
+
+## bulk buyer ped -1757.21, 427.49, 126.70
+## blackmarket ped -80.60, -1326.1, 29.27
+
+#DirtyMoney
+npc - 543.57, -2782.5, 5.1
+chip seller - 974.32, 12.88, 80.04
+locker for key - 575.13, -2795.63, 6.1
+
+#Bitcoin 
+lesters crib - 1276.21, -1709.88, 54.57
