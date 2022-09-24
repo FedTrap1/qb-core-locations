@@ -1,8 +1,8 @@
 #Crack/Cocaine
 cocaleafs - #unknown
 benzocaine - #LS Airport, Search Airport Crates  x = -1150.35,  y = -2566.99,   z = 13.94 # Mostly any works
-IllegalGasoline - #Military Base requires plasticjerrycan  -1932.35, 3038.86, 32.81 # Search fueltanker thing
-Cemet - #Construction -453.74, -983.82, 25.9 Search
+IllegalGasoline - #Military Base, requires plasticjerrycan  -1932.35, 3038.86, 32.81 # Search fueltanker thing
+Cemet - #Construction -453.74, -983.82, 25.9 # Search pallet
 
 #Peds
 Crack - -255.88, -1542.7, 30.92
@@ -12,3 +12,15 @@ Cocaine - 515.13, 174.49, 99.68
 2506.9125, -357.0752, 114.08707 - extendedclip/gusenberg/advancedrifle/assaultrifle/compactrifle/microsmg2/suppressor/pistolmk2
 -176.8901, 6549.4326, 11.097984 - advancedlockpick/handcuffs/drill/radio/armor/electronickit/gatecrack/trojanusb/harness
 -52.12981, -2750.808, 6.0820059 - ammo/pistol/vintagepistol/snspistol/knife/bat/knuckle/hatchet/switchblade
+
+#Heroine/Morphine
+opium - #Swamp, requires trovel -2332.28, 2516.33, 3.43  It's in swamp
+hydrochloricacid - #NuclearPlant requires plasticjerrycan 2705.04, 1557.17, 26.04 # search those blueish towers underground
+petroleumether - #Buslot, requires plasticjerrycan 453.47, -585.43, 28.5 # Search yellow barrels
+Cemet - #Construction -453.74, -983.82, 25.9 # Search pallet
+
+#Peds
+Pharmacist - 91.23, -1603.81, 29.90
+Morphine Processor - 166.0, 293.21, 109.84
+Heroin Base Processor - -1124.27, 4892.85, 217.47
+Heroine Processor - 1967.15, 4634.16, 40.10
